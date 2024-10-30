@@ -1,0 +1,4 @@
+﻿  iyf.cpp
+C:\Users\User\source\repos\advinhas\advinhas\iyf.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\advinhas\advinhas\iyf.cpp(7,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  advinhas.vcxproj -> C:\Users\User\source\repos\advinhas\advinhas\x64\Debug\advinhas.exe
