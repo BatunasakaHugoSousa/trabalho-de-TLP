@@ -1,0 +1,3 @@
+﻿  dfgh.cpp
+C:\Users\User\source\repos\somar e somar\somar e somar\dfgh.cpp(3,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  somar e somar.vcxproj -> C:\Users\User\source\repos\somar e somar\x64\Debug\somar e somar.exe
