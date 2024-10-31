@@ -1,0 +1,3 @@
+﻿  NotAFileName.cpp
+C:\Users\User\source\repos\multi de 3 ou 5\multi de 3 ou 5\NotAFileName.cpp(3,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  multi de 3 ou 5.vcxproj -> C:\Users\User\source\repos\multi de 3 ou 5\x64\Debug\multi de 3 ou 5.exe
