@@ -1,0 +1,3 @@
+﻿  1.cpp
+C:\Users\User\source\repos\gasolina do carro\teste\1.cpp(3,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  teste.vcxproj -> C:\Users\User\source\repos\gasolina do carro\x64\Debug\gasolina do carro.exe
