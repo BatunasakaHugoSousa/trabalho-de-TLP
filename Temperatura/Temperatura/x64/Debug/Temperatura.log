@@ -1,0 +1,5 @@
+﻿  qzerty.cpp
+C:\Users\User\source\repos\temperatura\Temperatura\qzerty.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\temperatura\Temperatura\qzerty.cpp(18,16): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\User\source\repos\temperatura\Temperatura\qzerty.cpp(27,16): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  Temperatura.vcxproj -> C:\Users\User\source\repos\temperatura\x64\Debug\Temperatura.exe
