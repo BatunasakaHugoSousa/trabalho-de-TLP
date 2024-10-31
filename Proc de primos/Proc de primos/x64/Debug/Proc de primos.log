@@ -1,0 +1,3 @@
+﻿  NameFile.cpp
+C:\Users\User\source\repos\Proc de primos\Proc de primos\NameFile.cpp(3,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Proc de primos.vcxproj -> C:\Users\User\source\repos\Proc de primos\x64\Debug\Proc de primos.exe
