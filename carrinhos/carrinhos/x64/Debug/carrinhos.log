@@ -1,0 +1,3 @@
+﻿  qwerty2.cpp
+C:\Users\User\source\repos\carrinhos\carrinhos\qwerty2.cpp(4,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  carrinhos.vcxproj -> C:\Users\User\source\repos\carrinhos\x64\Debug\carrinhos.exe
