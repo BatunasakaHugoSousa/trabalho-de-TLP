@@ -1,0 +1,3 @@
+﻿  waa.cpp
+C:\Users\User\source\repos\calculação chata\calculação chata\waa.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  calculação chata.vcxproj -> C:\Users\User\source\repos\calculação chata\x64\Debug\calculação chata.exe
