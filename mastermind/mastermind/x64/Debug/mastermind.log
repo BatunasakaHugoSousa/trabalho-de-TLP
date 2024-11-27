@@ -1,0 +1,4 @@
+﻿  oooospoky.cpp
+C:\Users\User\source\repos\mastermind\mastermind\oooospoky.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\mastermind\mastermind\oooospoky.cpp(8,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  mastermind.vcxproj -> C:\Users\User\source\repos\mastermind\x64\Debug\mastermind.exe
