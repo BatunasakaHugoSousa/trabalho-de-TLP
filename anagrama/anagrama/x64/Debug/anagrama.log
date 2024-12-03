@@ -1,3 +1,0 @@
-﻿  FileName e NameFile.cpp
-C:\Users\User\source\repos\anagrama\anagrama\FileName e NameFile.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
-  anagrama.vcxproj -> C:\Users\User\source\repos\anagrama\x64\Debug\anagrama.exe
