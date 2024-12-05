@@ -1,0 +1,4 @@
+﻿  de cesar.cpp
+C:\Users\User\source\repos\cifra\cifra\de cesar.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\cifra\cifra\de cesar.cpp(7,18): warning C4101: 'Z': variável local não referenciada
+  cifra.vcxproj -> C:\Users\User\source\repos\cifra\x64\Debug\cifra.exe

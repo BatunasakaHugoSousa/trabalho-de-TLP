@@ -1,0 +1,3 @@
+﻿  de cesar.cpp
+C:\Users\User\source\repos\cifra\cifra\de cesar.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  cifra.vcxproj -> C:\Users\User\source\repos\cifra\cifra\x64\Debug\cifra.exe
