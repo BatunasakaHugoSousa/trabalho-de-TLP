@@ -8,7 +8,7 @@ void main() {
 	string A[100];
 	cout << "quantos alunos tem a turma\n";
 	cin >> Q;
-	cout << "qual é o nome e a nota dele(a)\n";
+	cout << "qual Ã© o nome dele(a)\n";
 	for (i = 0; i < Q; i++)
 	{
 		cout << "(" << i + 1 << "/" << Q << ")\n";
@@ -21,5 +21,5 @@ void main() {
 		T = T + N[i];
 	}
 	M = T / Q;
-	cout << "a media da turma é:" << M;
+	cout << "a media da turma Ã©:" << M;
 }
