@@ -1,0 +1,18 @@
+﻿  deveserfacil.cpp
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(4,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,61): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,61): warning C4305: 'inicializando': truncamento de 'int' para 'char'
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,61): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,68): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,68): warning C4305: 'inicializando': truncamento de 'int' para 'char'
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,68): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,75): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,75): warning C4305: 'inicializando': truncamento de 'int' para 'char'
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,75): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,82): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,82): warning C4305: 'inicializando': truncamento de 'int' para 'char'
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,82): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,89): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,89): warning C4305: 'inicializando': truncamento de 'int' para 'char'
+C:\Users\User\source\repos\teste\teste\deveserfacil.cpp(7,89): warning C4309: 'inicializando': truncamento de valor constante
+  teste.vcxproj -> C:\Users\User\source\repos\teste\teste\x64\Debug\teste.exe
