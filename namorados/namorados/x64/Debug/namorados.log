@@ -1,0 +1,4 @@
+﻿  naodeixeselesdescobrirem.cpp
+C:\Users\User\source\repos\namorados\namorados\naodeixeselesdescobrirem.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\namorados\namorados\naodeixeselesdescobrirem.cpp(9,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  namorados.vcxproj -> C:\Users\User\source\repos\namorados\x64\Debug\namorados.exe
