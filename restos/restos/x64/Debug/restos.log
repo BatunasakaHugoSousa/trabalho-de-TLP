@@ -1,0 +1,3 @@
+﻿  instruçõesconfusas.cpp
+C:\Users\User\source\repos\restos\restos\instruçõesconfusas.cpp(4,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  restos.vcxproj -> C:\Users\User\source\repos\restos\x64\Debug\restos.exe
