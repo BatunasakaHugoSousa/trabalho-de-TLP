@@ -1,0 +1,4 @@
+﻿  muydinheiro.cpp
+C:\Users\User\source\repos\produto\produto\muydinheiro.cpp(13,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\produto\produto\muydinheiro.cpp(25,10): warning C4566: caractere representado por nome de caractere universal (UCN) '\u263A' não pode ser representado na página de código atual (1252)
+  produto.vcxproj -> C:\Users\User\source\repos\produto\produto\x64\Debug\produto.exe

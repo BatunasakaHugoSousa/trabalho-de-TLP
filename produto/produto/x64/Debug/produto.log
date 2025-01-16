@@ -1,0 +1,6 @@
+﻿  muydinheiro.cpp
+C:\Users\User\source\repos\produto\produto\muydinheiro.cpp(36,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\produto\produto\muydinheiro.cpp(38,15): warning C4101: 'P': variável local não referenciada
+C:\Users\User\source\repos\produto\produto\muydinheiro.cpp(38,6): warning C4101: 'i': variável local não referenciada
+C:\Users\User\source\repos\produto\produto\muydinheiro.cpp(38,9): warning C4101: 'u': variável local não referenciada
+  produto.vcxproj -> C:\Users\User\source\repos\produto\x64\Debug\produto.exe
