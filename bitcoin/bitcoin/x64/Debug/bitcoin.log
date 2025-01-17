@@ -1,0 +1,4 @@
+﻿  $$$.cpp
+C:\Users\User\source\repos\bitcoin\bitcoin\$$$.cpp(6,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\User\source\repos\bitcoin\bitcoin\$$$.cpp(140,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  bitcoin.vcxproj -> C:\Users\User\source\repos\bitcoin\x64\Debug\bitcoin.exe
