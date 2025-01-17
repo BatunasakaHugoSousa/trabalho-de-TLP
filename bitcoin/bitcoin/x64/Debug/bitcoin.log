@@ -1,3 +1,0 @@
-﻿  $$$.cpp
-C:\Users\User\source\repos\bitcoin\bitcoin\$$$.cpp(114,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
-  bitcoin.vcxproj -> C:\Users\User\source\repos\bitcoin\x64\Debug\bitcoin.exe
