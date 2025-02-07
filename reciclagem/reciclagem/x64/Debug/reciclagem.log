@@ -1,0 +1,5 @@
+﻿  amareloverdeeazul.cpp
+C:\Users\User\source\repos\reciclagem\reciclagem\amareloverdeeazul.cpp(8,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\User\source\repos\reciclagem\reciclagem\amareloverdeeazul.cpp(18,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\User\source\repos\reciclagem\reciclagem\amareloverdeeazul.cpp(121,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  reciclagem.vcxproj -> C:\Users\User\source\repos\reciclagem\x64\Debug\reciclagem.exe
