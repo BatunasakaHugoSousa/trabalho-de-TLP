@@ -1,0 +1,3 @@
+﻿  doentes.cpp
+C:\Users\User\source\repos\febre\febre\doentes.cpp(3,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  febre.vcxproj -> C:\Users\User\source\repos\febre\febre\x64\Debug\febre.exe
