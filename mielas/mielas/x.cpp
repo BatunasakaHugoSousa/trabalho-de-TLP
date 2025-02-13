@@ -1,0 +1,1 @@
+//#include<iostream>using namespace std;void main() {int pessoas, valores, i;cin >> pessoas >> valores;cout << valores / pessoas;}
