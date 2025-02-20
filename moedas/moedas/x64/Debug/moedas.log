@@ -1,0 +1,3 @@
+﻿  centimos.cpp
+C:\Users\User\source\repos\moedas\moedas\centimos.cpp(3,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  moedas.vcxproj -> C:\Users\User\source\repos\moedas\x64\Debug\moedas.exe
