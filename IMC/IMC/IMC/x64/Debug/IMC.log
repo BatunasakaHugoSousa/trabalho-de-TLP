@@ -1,0 +1,4 @@
+﻿  peso.cpp
+C:\Users\User\source\repos\IMC\IMC\peso.cpp(54,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\IMC\IMC\peso.cpp(56,6): warning C4101: 'i': variável local não referenciada
+  IMC.vcxproj -> C:\Users\User\source\repos\IMC\IMC\x64\Debug\IMC.exe
