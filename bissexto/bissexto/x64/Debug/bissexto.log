@@ -1,0 +1,4 @@
+﻿  29 dias.cpp
+C:\Users\User\source\repos\bissexto\bissexto\29 dias.cpp(4,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\bissexto\bissexto\29 dias.cpp(6,9): warning C4101: 'M': variável local não referenciada
+  bissexto.vcxproj -> C:\Users\User\source\repos\bissexto\x64\Debug\bissexto.exe
