@@ -1,0 +1,3 @@
+﻿  matematica.cpp
+C:\Users\User\source\repos\expoente\expoente\matematica.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  expoente.vcxproj -> C:\Users\User\source\repos\expoente\expoente\x64\Debug\expoente.exe
