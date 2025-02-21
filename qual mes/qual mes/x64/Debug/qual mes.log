@@ -1,0 +1,3 @@
+﻿  qual mes.cpp
+C:\Users\User\source\repos\qual mes\qual mes\qual mes.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  qual mes.vcxproj -> C:\Users\User\source\repos\qual mes\x64\Debug\qual mes.exe
